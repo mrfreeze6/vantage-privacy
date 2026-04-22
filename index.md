@@ -50,4 +50,4 @@ If this policy changes — for example, if a future version of the app introduce
 
 For any questions about this policy, contact the developer at:
 
-mrfreeze6@gmail.com
+developer.mrfreeze@gmail.com
